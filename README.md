@@ -1,6 +1,6 @@
 # JupyterLab Building Extensions: Status Bar Time Widget Mod
 
-**Description**: The task is to create a simple JupyterLab environment frontend extension (refer to [JupyterLab Beginning Building Extensions.pdf](https://github.com/sboettch/jupyterlab-statusextension/blob/main/JupyterLab%20Beginning%20Building%20Extensions.pdf)). We want to be able to:
+**Description**: The task is to create a simple JupyterLab environment frontend extension (refer to [JupyterLab Lab Task.pdf](https://github.com/sboettch/jupyterlab-statusextension/blob/main/JupyterLab%20Task.pdf)). We want to be able to:
 1. Show status of the kernel
 2. Show kernel execution time in milliseconds
 
